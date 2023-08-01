@@ -6,7 +6,7 @@ LONG_DESCRIPTION = 'An app that helps with budgeting'
 
 # Setting up
 setup(
-    name="expense ",
+    name="expense",
     version=VERSION,
     author="Human Ai",
     author_email="<tarini.m.ap@gmail.com>",
